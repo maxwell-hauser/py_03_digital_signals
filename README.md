@@ -234,4 +234,12 @@ A: A bit is a unit of data, while baud is a unit of signaling speed (symbols per
 ---
 
 **Course Navigation:**  
-← Previous: [Chapter 2 - Analog Signals](../ch2_analog_signals/) | Next: [Chapter 4 - Number Systems](../ch4_number_systems/) →
+← Previous: [Chapter 2 - Analog Signals](../ch2_analog_signals/) | Next: [Chapter 4 - Number Systems](../ch4_number_systems/)
+
+---
+
+## Authorship
+Authored by Maxwell Hauser on November 19, 2025
+
+## License
+MIT License
